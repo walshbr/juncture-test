@@ -9,7 +9,6 @@ banner: https://picsum.photos/id/857/1000/400
 # the Github account and repository name
 acct: walshbr
 repo: juncture-test
-base_url: http://walshbr.com/juncture-test
 
 ######################################################
 # Defines options shown in the header navigation menu
