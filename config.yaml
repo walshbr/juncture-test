@@ -17,10 +17,10 @@ nav:
 - label: Contact the Juncture team
   icon: fas fa-envelope
   action: contact-us
-- label: View page source
+- label: My new essay
   icon: fas fa-file-code
-  action: view-markdown
-
+  action: load-page
+  path: /sample-visual-essay
 # If a contact-us action is defined for the nav menu a contact form will be enabled
 # The following information is used in the display and processing of the contact form.
 contactForm:
